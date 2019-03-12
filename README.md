@@ -42,7 +42,7 @@ An attempt is made to solve the above problem statement using pyspark.
       
 **Requirements**
 
-   [pyspark](https://pypi.org/project/pyspark/)
+    [pyspark](https://pypi.org/project/pyspark/)
  
  **Installation**
  
