@@ -1,5 +1,5 @@
 # pyspark-dataframe-searcher
-Taiwo's pyspark dataframe feature extraction problem
+Taiwo's pyspark dataframe feature extraction problem.
 
 **Problem description**
 
