@@ -24,7 +24,7 @@ The objective is to search the _*col 2-4*_ of the pyspark dataframe for values i
     In col1, 8 is found in (as4,col2)
     In col1, 9 is found in (as5,col4)
 
-*Hint:* Assume that col1 will be a set {4,6,8,9} i.e. unique
+*Hint:* Assume that col1 is a set: {4,6,8,9} i.e. distinct
 
 **Solution**
 
