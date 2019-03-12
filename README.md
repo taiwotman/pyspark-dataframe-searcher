@@ -1,8 +1,8 @@
 # pyspark-dataframe-searcher
 Taiwo pyspark dataframe feature extraction problem
 
+**Problem description**
 
-### Problem description
 This problem is taken from a question I posted on [StackOverflow:](https://stackoverflow.com/questions/55031126/search-the-rest-columns-of-pyspark-dataframe-for-values-in-column1). It involves a search in two dimensional array space which is essentially a *two-dimensional pattern matching problem(Ref. [1])*.
 
 For example: 
@@ -26,7 +26,7 @@ The objective is to search the ***col 2-4*** of the pyspark dataframe for values
 
 *Hint:* Assume that col1 will be a set {4,6,8,9} i.e. unique
 
-### Solution
+**Solution**
 
 An attempt is made to solve the above problem statement using pyspark.
 
@@ -35,8 +35,16 @@ An attempt is made to solve the above problem statement using pyspark.
       spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
 
   
-### Reference:
+**Reference**
 
-1. J. Alwidian, H. Abu-Mansour and M. Ali, "Efficient algorithm for two dimensional pattern matching problem (non-square pattern)," 2012      International Conference on Information Technology and e-Services, Sousse, 2012, pp. 1-8. doi: 10.1109/ICITeS.2012.6216622
+1. J. Alwidian, H. Abu-Mansour and M. Ali, "Efficient algorithm for two dimensional pattern matching problem 
+   (non-square pattern)," 2012 International Conference on Information Technology and e-Services, Sousse, 2012, pp. 1-8.
+   doi: 10.1109/ICITeS.2012.6216622
 
 
+**You want to be a contributor?** 
+1. Fork repository
+
+     and/or
+
+2. Connect and chat me on [LinkedIn](https://www.linkedin.com/in/taiwo-o-adetiloye-ph-d-505a8023/).
