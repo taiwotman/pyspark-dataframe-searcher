@@ -3,7 +3,7 @@ Taiwo pyspark dataframe feature extraction problem
 
 **Problem description**
 
-This problem can be found on [StackOverflow](https://stackoverflow.com/questions/55031126/search-the-rest-columns-of-pyspark-dataframe-for-values-in-column1). It involves a search in two dimensional array space which is essentially a *two-dimensional pattern matching problem(Ref. [1])*.
+This problem can be found on [StackOverflow](https://stackoverflow.com/questions/55031126/search-the-rest-columns-of-pyspark-dataframe-for-values-in-column1). It involves a search vis-a-vos pattern matching in two dimensional array space; and, it can be regarded as a *two-dimensional pattern matching problem(Ref. [1])*.
 
 For example: 
 
