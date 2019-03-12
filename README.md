@@ -35,6 +35,13 @@ An attempt is made to solve the above problem statement using pyspark.
     git clone https://github.com/taiwotman/pyspark-dataframe-searcher.git
     
     spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
+    
+ *Or use the bash script, [run.ksh](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/run.ksh),  in a unix environment*
+ 
+    chmod 777 run.ksh
+    
+    ./run.ksh
+ 
      
  **Output**
  
