@@ -30,13 +30,13 @@ The objective is to search the _*col 2-4*_ of the pyspark dataframe for values i
 
 An attempt is made to solve the above problem statement using pyspark.
 
-**To run, use the following commands:**
+  *Windox users, run the following commands:*
      
     git clone https://github.com/taiwotman/pyspark-dataframe-searcher.git
     
     spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
     
- *Or use the bash script, [run.ksh](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/run.ksh),  in a unix environment*
+  *Unix user, run the bash script, [run.ksh](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/run.ksh)*
  
     chmod 777 run.ksh
     
