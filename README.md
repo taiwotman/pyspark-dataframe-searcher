@@ -37,7 +37,6 @@ An attempt is made to solve the above problem statement using pyspark.
   
 ### Reference:
 
-1. J. Alwidian, H. Abu-Mansour and M. Ali, "Efficient algorithm for two dimensional pattern matching problem (non-square pattern)," 2012      International Conference on Information Technology and e-Services, Sousse, 2012, pp. 1-8.
-   doi: 10.1109/ICITeS.2012.6216622
+1. J. Alwidian, H. Abu-Mansour and M. Ali, "Efficient algorithm for two dimensional pattern matching problem (non-square pattern)," 2012      International Conference on Information Technology and e-Services, Sousse, 2012, pp. 1-8. doi: 10.1109/ICITeS.2012.6216622
 
 
