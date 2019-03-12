@@ -32,8 +32,13 @@ An attempt is made to solve the above problem statement using pyspark.
 
 **To run, use:**
    
-      spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
+     spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
+      
+**Requirements**
 
+ [pyspark2](https://pypi.org/project/pyspark/)
+ 
+    pip install pyspark
   
 **Reference**
 
