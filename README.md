@@ -36,7 +36,7 @@ An attempt is made to solve the above problem statement using pyspark.
     
     spark2-submit --py-files job_searchdataframe.zip main.py --search >> output_`date +\%m\%d\%y\%T`.txt
     
-  *Unix user, run the bash script, [run.ksh](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/run.ksh)*
+  *Unix user, run the bash script, [run.ksh](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/run.ksh) :*
  
     chmod 777 run.ksh
     
