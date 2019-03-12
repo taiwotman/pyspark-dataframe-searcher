@@ -38,7 +38,7 @@ An attempt is made to solve the above problem statement using pyspark.
      
  **Output**
  
-   _Refer to the output text file_
+   _Refer to the [output](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/output_031219.txt) text file_
       
 **Requirements**
 
