@@ -5,9 +5,9 @@ Taiwo's pyspark dataframe feature extraction problem.
 
 This problem can be found on [StackOverflow](https://stackoverflow.com/questions/55031126/search-the-rest-columns-of-pyspark-dataframe-for-values-in-column1). It involves a search vis-a-vis pattern matching in two dimensional array space; and, it can be regarded as a *two-dimensional pattern matching problem*(Ref. [[1](https://ieeexplore.ieee.org/document/6216622)]).
 
-For example: 
+*For example:* 
 
-Suppose there is a pyspark dataframe of the form:
+Given a pyspark dataframe of the form:
  
     id  col1  col2 col3 col4
     ------------------------
