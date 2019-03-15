@@ -30,7 +30,7 @@ The objective is to search the _*col 2-4*_ of the pyspark dataframe for values i
 
 An attempt is made to solve the above problem statement using pyspark.
 
-  *Windox users, run the following commands:*
+  *Windos users, run the following commands:*
      
     git clone https://github.com/taiwotman/pyspark-dataframe-searcher.git
     
