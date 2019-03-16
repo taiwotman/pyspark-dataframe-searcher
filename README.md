@@ -43,7 +43,7 @@ An attempt is made to solve the above problem statement using pyspark.
     ./run.ksh
  
      
- **Output**
+**Output**
  
    _Refer to the [output](https://github.com/taiwotman/pyspark-dataframe-searcher/blob/master/output_031219.txt) text file_
       
@@ -51,10 +51,15 @@ An attempt is made to solve the above problem statement using pyspark.
 
    [pyspark 2.4.0](https://pypi.org/project/pyspark/)
  
- **Installation**
+**Installation**
  
     pip install pyspark
-  
+
+**To do*
+
+1. Improve the runtime(i.e. start-time minus end-time)
+2. Improve the search to obtain the row and column(i.e. x,y coordinate) of feasible solutions.
+
 **Reference**
 
 1. J. Alwidian, H. Abu-Mansour and M. Ali, "Efficient algorithm for two dimensional pattern matching problem 
