@@ -58,7 +58,7 @@ An attempt is made to solve the above problem statement using pyspark.
 **To do:**
 
 1. Improve the runtime(i.e. End-time minus Start-time)
-2. Improve the search to obtain the row and column(i.e. x,y coordinate) of feasible solutions.
+2. Improve the search to obtain the rows and columns(i.e. x,y coordinates) of feasible solutions.
 
 **Reference**
 
