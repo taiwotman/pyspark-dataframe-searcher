@@ -17,7 +17,7 @@ Given a pyspark dataframe of the form:
     as4  8    8     6    1
     as5  9    6     6    9
 
-The objective is to search the _*col 2-4*_ of the pyspark dataframe for values in _*col1*_ and to return the _*(id row name, column name)*_. The expected solution are the following:
+The objective is to search the _*col 2-4*_ of the pyspark dataframe for values in _*col1*_ and to return the _*id row name, column name(s)*_. The expected solution are the following:
 
     In col1, 4 is found in (as1, col3)
     In col1, 6 is found in (as2,col3),(as1,col4),(as4, col3) (as5,col3)
