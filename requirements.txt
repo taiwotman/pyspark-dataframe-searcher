@@ -1,0 +1,2 @@
+allennlp
+PyPDF2
