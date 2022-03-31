@@ -68,8 +68,9 @@ An attempt is made to solve the above problem statement using pyspark.
 
 
 **You want to be a contributor?** 
-1. Fork repository
 
-     and/or
+* Open an [issue](https://github.com/taiwotman/pyspark-dataframe-searcher/issues)
 
-2. Connect and chat me on [LinkedIn](https://www.linkedin.com/in/taiwo-o-adetiloye-ph-d-505a8023/).
+* Fork repository
+
+* Send me a [message](https://www.taiwotman.github.io/#contact)
