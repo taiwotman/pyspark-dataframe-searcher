@@ -1,1 +1,1 @@
-Pyspark==3.0.1
+Pyspark==3.2.2
