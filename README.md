@@ -73,4 +73,4 @@ An attempt is made to solve the above problem statement using pyspark.
 
 * Fork repository
 
-* Send me a [message](https://www.taiwotman.github.io/#contact)
+* Send me a [message](https://taiwotman.github.io/#contact)
